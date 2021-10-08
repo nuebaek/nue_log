@@ -1,0 +1,9 @@
+#CodeUp no.6078
+while True:
+    x = input()
+    if x != 'q':
+        print(x)
+
+    elif x=='q':
+        print(x)
+        break
